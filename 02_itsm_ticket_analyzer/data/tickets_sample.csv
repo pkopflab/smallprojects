@@ -1,0 +1,61 @@
+ticket_id,category,short_description,impact,urgency,created_at,resolved_at,sla_hours,assigned_team
+INC2026000,Hardware,VPN connection unstable,low,low,2026-01-29 01:30:00,2026-01-29 06:30:00,72,Applications
+INC2026001,Software,User cannot access application,low,high,2026-01-28 11:30:00,2026-01-30 13:30:00,8,Security
+INC2026002,Service Request,User cannot access application,low,low,2026-01-26 18:30:00,2026-01-26 20:30:00,24,Applications
+INC2026003,Access,ERP report not loading,low,high,2026-01-08 05:30:00,2026-01-08 23:30:00,24,Applications
+INC2026004,Security,ERP report not loading,high,high,2026-01-07 00:30:00,2026-01-07 18:30:00,8,Network
+INC2026005,Security,VPN connection unstable,low,medium,2026-01-16 11:30:00,2026-01-18 13:30:00,24,Security
+INC2026006,Software,User cannot access application,low,medium,2026-01-10 22:30:00,2026-01-11 16:30:00,48,Applications
+INC2026007,Service Request,Laptop performance issue,high,medium,2026-01-29 08:30:00,2026-01-29 10:30:00,8,Workplace
+INC2026008,Software,VPN connection unstable,low,medium,2026-01-20 05:30:00,2026-01-20 10:30:00,8,Applications
+INC2026009,Security,ERP report not loading,low,high,2026-02-04 08:30:00,2026-02-05 12:30:00,48,Applications
+INC2026010,Software,User cannot access application,low,high,2026-01-18 02:30:00,2026-01-18 07:30:00,8,Applications
+INC2026011,Service Request,Laptop performance issue,high,medium,2026-01-11 23:30:00,2026-01-12 09:30:00,48,Workplace
+INC2026012,Network,VPN connection unstable,low,low,2026-02-03 15:30:00,2026-02-04 19:30:00,48,Security
+INC2026013,Software,Laptop performance issue,high,medium,2026-01-17 03:30:00,2026-01-17 05:30:00,8,Workplace
+INC2026014,Access,User cannot access application,low,high,2026-01-24 04:30:00,2026-01-25 08:30:00,72,Workplace
+INC2026015,Software,ERP report not loading,high,low,2026-01-28 14:30:00,2026-01-31 22:30:00,8,Security
+INC2026016,Software,User cannot access application,medium,low,2026-01-10 18:30:00,2026-01-11 04:30:00,8,Workplace
+INC2026017,Service Request,Password reset requested,high,high,2026-02-02 18:30:00,2026-02-03 04:30:00,8,Workplace
+INC2026018,Hardware,Password reset requested,low,low,2026-01-15 10:30:00,2026-01-18 18:30:00,24,Network
+INC2026019,Hardware,Potential phishing email reported,low,medium,2026-01-22 21:30:00,2026-01-23 07:30:00,24,Service Desk
+INC2026020,Network,VPN connection unstable,medium,low,2026-01-25 09:30:00,2026-01-25 14:30:00,24,Workplace
+INC2026021,Software,VPN connection unstable,low,medium,2026-01-06 08:30:00,2026-01-07 02:30:00,24,Network
+INC2026022,Service Request,VPN connection unstable,low,low,2026-02-01 16:30:00,2026-02-03 18:30:00,72,Network
+INC2026023,Access,ERP report not loading,medium,medium,2026-01-12 22:30:00,2026-01-13 00:30:00,48,Network
+INC2026024,Service Request,Laptop performance issue,medium,low,2026-01-23 22:30:00,2026-01-24 16:30:00,8,Security
+INC2026025,Network,User cannot access application,high,medium,2026-01-05 09:30:00,2026-01-05 19:30:00,24,Applications
+INC2026026,Software,ERP report not loading,medium,high,2026-01-18 17:30:00,2026-01-20 19:30:00,8,Security
+INC2026027,Software,ERP report not loading,low,low,2026-01-19 06:30:00,2026-01-21 08:30:00,72,Security
+INC2026028,Security,Laptop performance issue,high,high,2026-02-02 16:30:00,2026-02-04 18:30:00,72,Network
+INC2026029,Software,Laptop performance issue,medium,high,2026-01-22 15:30:00,2026-01-23 01:30:00,8,Applications
+INC2026030,Network,Password reset requested,high,low,2026-02-02 06:30:00,2026-02-03 00:30:00,48,Applications
+INC2026031,Access,VPN connection unstable,high,high,2026-01-25 12:30:00,2026-01-27 14:30:00,24,Applications
+INC2026032,Hardware,Potential phishing email reported,medium,low,2026-01-19 15:30:00,2026-01-22 23:30:00,8,Workplace
+INC2026033,Hardware,Password reset requested,high,low,2026-01-11 14:30:00,2026-01-11 16:30:00,8,Security
+INC2026034,Security,Password reset requested,medium,medium,2026-01-23 00:30:00,2026-01-25 02:30:00,24,Workplace
+INC2026035,Access,Password reset requested,low,low,2026-01-11 15:30:00,2026-01-14 23:30:00,8,Applications
+INC2026036,Hardware,User cannot access application,medium,low,2026-01-25 03:30:00,2026-01-26 07:30:00,8,Security
+INC2026037,Network,ERP report not loading,high,high,2026-02-02 19:30:00,2026-02-06 03:30:00,48,Security
+INC2026038,Security,Password reset requested,medium,medium,2026-01-28 17:30:00,2026-01-28 22:30:00,72,Workplace
+INC2026039,Service Request,Password reset requested,high,low,2026-02-01 12:30:00,2026-02-04 20:30:00,48,Network
+INC2026040,Software,Laptop performance issue,medium,medium,2026-01-24 02:30:00,2026-01-26 04:30:00,8,Network
+INC2026041,Hardware,Laptop performance issue,medium,high,2026-01-28 09:30:00,2026-01-28 14:30:00,8,Workplace
+INC2026042,Network,VPN connection unstable,high,medium,2026-01-14 11:30:00,2026-01-15 05:30:00,8,Security
+INC2026043,Network,Password reset requested,high,high,2026-01-07 23:30:00,2026-01-11 07:30:00,24,Service Desk
+INC2026044,Access,VPN connection unstable,medium,medium,2026-01-29 21:30:00,2026-01-30 15:30:00,72,Security
+INC2026045,Hardware,VPN connection unstable,medium,medium,2026-01-28 07:30:00,2026-01-29 01:30:00,24,Service Desk
+INC2026046,Security,Password reset requested,high,low,2026-01-21 22:30:00,2026-01-24 00:30:00,48,Security
+INC2026047,Service Request,ERP report not loading,high,low,2026-01-10 18:30:00,2026-01-11 12:30:00,8,Service Desk
+INC2026048,Network,Laptop performance issue,low,medium,2026-02-01 18:30:00,2026-02-01 23:30:00,72,Security
+INC2026049,Software,VPN connection unstable,medium,medium,2026-01-19 07:30:00,2026-01-20 01:30:00,24,Security
+INC2026050,Access,Potential phishing email reported,high,low,2026-01-16 02:30:00,2026-01-16 20:30:00,8,Network
+INC2026051,Security,User cannot access application,low,low,2026-01-14 21:30:00,2026-01-18 05:30:00,8,Workplace
+INC2026052,Hardware,Password reset requested,high,low,2026-01-06 04:30:00,2026-01-06 09:30:00,24,Applications
+INC2026053,Software,VPN connection unstable,low,high,2026-01-14 15:30:00,2026-01-16 17:30:00,72,Applications
+INC2026054,Access,ERP report not loading,low,medium,2026-01-10 05:30:00,2026-01-10 15:30:00,24,Applications
+INC2026055,Security,Laptop performance issue,low,high,2026-02-03 05:30:00,2026-02-03 23:30:00,72,Workplace
+INC2026056,Security,ERP report not loading,low,high,2026-01-09 16:30:00,2026-01-13 00:30:00,48,Service Desk
+INC2026057,Software,User cannot access application,high,high,2026-01-20 03:30:00,2026-01-22 05:30:00,72,Network
+INC2026058,Network,User cannot access application,medium,medium,2026-01-05 20:30:00,2026-01-09 04:30:00,72,Security
+INC2026059,Security,ERP report not loading,high,medium,2026-01-11 20:30:00,2026-01-12 01:30:00,72,Applications
